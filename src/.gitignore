@@ -1,0 +1,11 @@
+echo "*.class
+bin/
+lib/
+.vscode/
+.idea/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+*.swp
+*.bak" > .gitignore
